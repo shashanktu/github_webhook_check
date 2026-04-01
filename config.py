@@ -9,3 +9,4 @@ ENABLE_SAST     = True
 ENABLE_DAST     = False
 APP_SERVICE_SKU = "B1"
 MY_NAME         = "Shashank Tudum"
+FUCK_YOU        = "Hari"
